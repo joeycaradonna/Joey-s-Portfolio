@@ -1,0 +1,121 @@
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    background-color: black;
+}
+
+#navbar-collapse {
+    float: right;
+}
+
+#herotext {
+    font-family: 'Courgette', cursive;
+    font-size: 60px;
+}
+
+#ptext {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+#top {
+    background-image: url('../img/heroimg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+}
+
+#about {
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 50px;
+    background-color: lightgrey;
+}
+
+#about-title {
+    font-family: 'Courgette', cursive;
+    font-size: 30px;
+}
+
+#info {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-align: left;
+    font-size: 15px;
+}
+
+#modal-text {
+    font-size: 20px;
+}
+
+#projecthead {
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    color: white;
+    font-size: 30px;
+    margin-bottom: 40px;
+    padding-top: 40px;
+}
+
+#myCarousel {
+    margin: 0 auto;
+    width: 60%
+}
+
+#img1 {
+    width: 100%;
+}
+
+#img2 {
+    width: 100%;
+}
+
+#img3 {
+    width: 100%;
+}
+
+#img4 {
+    width: 100%;
+}
+
+#bottom-title {
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    color: black;
+    font-size: 30px;
+    margin-bottom: 40px;
+    /*margin-top: 100px;*/
+}
+
+#maps-section {
+    margin-top: 20px;
+}
+
+#maps {
+    margin: 0 auto;
+    width: 100%
+}
+
+#contact {
+    margin-top: 80px;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    background-color: lightgrey;
+}
+
+#google-contact {
+    margin: 0 auto;
+    width: 100%;
+    height: 560px;
+}
+
+#locationtitle {
+    text-align: center;
+    font-family: 'Courgette', cursive;
+    color: white;
+    font-size: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
